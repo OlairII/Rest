@@ -1,6 +1,3 @@
-# Rest
-Almost a RESTful API
-
 ### Introduction
 
 Almost a RESTful api
